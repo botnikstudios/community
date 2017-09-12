@@ -15,3 +15,15 @@ from horoscopes.com
 [TAURUS](http://apps.botnik.org/writer/?source=ed4157b4515b62d7f4fd038f0dce6a02)
 
 [VIRGO](http://apps.botnik.org/writer/?source=be0805c016db92424013b1be58ca5e41)
+
+## Wikipedia - Fictional detectives
+
+From https://en.wikipedia.org/wiki/Fictional_detectives
+
+[Character Biography] (http://apps.botnik.org/writer/?source=38e541a0b245e7ef9db75dac3b486710)
+
+[Relationships] (http://apps.botnik.org/writer/?source=c2f83ca433a828a1d15d5233b45c1133)
+
+[Cultural impact] (http://apps.botnik.org/writer/?source=01ca03ba7d7be86798092a63c252a7c3) 
+
+[In Other Media] (http://apps.botnik.org/writer/?source=9b4b5cdd5d312d96b3c9129b75bd3ef5) 
