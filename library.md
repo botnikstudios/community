@@ -1,6 +1,6 @@
 ## horoscopes
 
-365 days of horoscopes per sign from horoscopes.com
+from horoscopes.com
 
 [ARIES](http://apps.botnik.org/writer/?source=532988ab2673a62a6251fd0c5cb647a7)
 
