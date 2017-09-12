@@ -20,10 +20,10 @@ from horoscopes.com
 
 From https://en.wikipedia.org/wiki/Fictional_detectives
 
-[Character Biography] (http://apps.botnik.org/writer/?source=38e541a0b245e7ef9db75dac3b486710)
+[Character Biography](http://apps.botnik.org/writer/?source=38e541a0b245e7ef9db75dac3b486710)
 
-[Relationships] (http://apps.botnik.org/writer/?source=c2f83ca433a828a1d15d5233b45c1133)
+[Relationships](http://apps.botnik.org/writer/?source=c2f83ca433a828a1d15d5233b45c1133)
 
-[Cultural impact] (http://apps.botnik.org/writer/?source=01ca03ba7d7be86798092a63c252a7c3) 
+[Cultural impact](http://apps.botnik.org/writer/?source=01ca03ba7d7be86798092a63c252a7c3) 
 
-[In Other Media] (http://apps.botnik.org/writer/?source=9b4b5cdd5d312d96b3c9129b75bd3ef5) 
+[In Other Media](http://apps.botnik.org/writer/?source=9b4b5cdd5d312d96b3c9129b75bd3ef5) 
