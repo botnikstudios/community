@@ -18,8 +18,6 @@ from horoscopes.com
 
 ## Wikipedia - Fictional detectives
 
-From https://en.wikipedia.org/wiki/Fictional_detectives
-
 [Character Biography](http://apps.botnik.org/writer/?source=38e541a0b245e7ef9db75dac3b486710)
 
 [Relationships](http://apps.botnik.org/writer/?source=c2f83ca433a828a1d15d5233b45c1133)
