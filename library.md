@@ -27,3 +27,7 @@ from horoscopes.com
 [Cultural impact](http://apps.botnik.org/writer/?source=01ca03ba7d7be86798092a63c252a7c3) 
 
 [In Other Media](http://apps.botnik.org/writer/?source=9b4b5cdd5d312d96b3c9129b75bd3ef5) 
+
+## Wikipedia - food
+
+[Midwestern cuisine and parasite life cycles](http://apps.botnik.org/writer/?source=422318a05a4c43e632e0cacd1a164060)
