@@ -2,6 +2,8 @@
 
 from horoscopes.com
 
+[ALL IN ONE](http://apps.botnik.org/writer/?source=a6ac7f86a21ff5afe2c806436289ac74)
+
 [ARIES](http://apps.botnik.org/writer/?source=532988ab2673a62a6251fd0c5cb647a7)
 
 [CANCER](http://apps.botnik.org/writer/?source=04b9fea666dad0b33ec592f582006097)
