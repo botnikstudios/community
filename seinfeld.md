@@ -10,7 +10,7 @@ for example:
 http://apps.botnik.org/writer/?source=c161323f992871889df8cdbbade8ea0f,f56fd1f5641b70903420837bcc6315ea
 
 
-## Quick access characters and SDs
+## Quick links to characters and stage directions
 
 [ELAINE](http://apps.botnik.org/writer/?source=1ef13b85006b8b421d17802afecdaf0c)
 
