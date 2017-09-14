@@ -1,15 +1,15 @@
 
-##HOW TO USE
+### HOW TO USE
 
 paste one or more ids into the writer url - http://apps.botnik.org/writer/?source=ID1,ID2 etc.
 
 for example:
 
-George dialogue + stage directions
+**George dialogue + stage directions**
 
 http://apps.botnik.org/writer/?source=c161323f992871889df8cdbbade8ea0f,f56fd1f5641b70903420837bcc6315ea
 
-###Seinfeld Season 3 Sources
+### Seinfeld Season 3 Sources
 
 combined 6680067e1df162cb7ff46c7ecf484983
 ELAINE 1ef13b85006b8b421d17802afecdaf0c
