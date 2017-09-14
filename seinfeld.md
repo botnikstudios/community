@@ -25,7 +25,7 @@ http://apps.botnik.org/writer/?source=c161323f992871889df8cdbbade8ea0f,f56fd1f56
 [STAGE DIRECTIONS](http://apps.botnik.org/writer/?source=f56fd1f5641b70903420837bcc6315ea)
 
 
-## Seinfeld Season 3 Source IDs
+## Seinfeld Season 3 Source IDs (for combos)
 
 ### characters
 
