@@ -1,9 +1,9 @@
 ## Cooking shows
-[Cinnamon Pancake Cooking Show Mix](apps.botnik.org/writer?source=7f9f71108ee4ba7a9378baa6c84e14f0)
+[Cinnamon Pancake Cooking Show Mix](http://apps.botnik.org/writer?source=7f9f71108ee4ba7a9378baa6c84e14f0)
 
-[YouTube Food Network Closed Captions](apps.botnik.org/writer?source=480bfcf9e737aa9febed88ab554f267e)
+[YouTube Food Network Closed Captions](http://apps.botnik.org/writer?source=480bfcf9e737aa9febed88ab554f267e)
 
-[AllRecipes for Cinnamon Rolls and Pancakes](apps.botnik.org/writer?source=92f3bdc2396ae56487ae6b34df5effc3)
+[AllRecipes for Cinnamon Rolls and Pancakes](http://apps.botnik.org/writer?source=92f3bdc2396ae56487ae6b34df5effc3)
 
 ## horoscopes
 
